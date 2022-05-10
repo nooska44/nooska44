@@ -1,6 +1,6 @@
 ![nooska44logo](https://user-images.githubusercontent.com/77055815/167367116-a2527c63-ef98-45c0-aa06-b07cb697d226.jpeg)
 
-<h3 align="center">A passionate software developer from Australia</h3>
+<h3 align="center">A passionate software developer from Australia interested in inclusive design</h3>
 <!-- See [my website](https://agdevportfolio.netlify.app/) for more information! -->
 <p align="center">
 See https://agdevportfolio.netlify.app/ for more information!
